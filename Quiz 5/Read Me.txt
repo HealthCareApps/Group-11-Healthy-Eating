@@ -1,0 +1,12 @@
+This folder contains three items that shows an early prototype of a portion of Group 11's app, specifically the information screen that will
+educate the user on what he/she can do in order to control his/her bloodsugar. The methods highlighted are exercise and
+diet. 
+
+The three items on this folder are:
+1. A screen shot of the app working through the android studio emulator.
+2. The code of the program.
+3. This read me file.
+
+Thank you very much and have a nice day.
+
+
