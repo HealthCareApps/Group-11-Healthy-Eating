@@ -1,0 +1,1 @@
+For this folder the only content is a pdf file of the first presentation. It documents everything we want to accomplish for our app.
