@@ -1,0 +1,7 @@
+This folder contains two files. The first is a working app that we worked on upto the point of the second presentation. 
+We accomplished some of the UI for the app, which includes the main page, a health tips section, some of the tutorial
+section and some of the profile section as well. The app as it was rendered in this version is exaclty how it was in the
+powerpoint presentation from the first presentation. The graphics of the app looks amatuerish because we had to do them
+ourselves without the output of the art student.
+
+The second file is the powerpoint slide that we used during the second presentation.
