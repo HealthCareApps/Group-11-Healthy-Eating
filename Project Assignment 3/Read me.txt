@@ -1,0 +1,7 @@
+This file contains the following:
+
+1. The final presentation powerpoint in pdf form.
+2. A promotional video, that showcases the important feature of the app.
+3. A downsized version of the app that does not have the full version of the food guide page. Instead it shows a pop up
+   with the txt version of the food guide page.
+4. A URL where you can download the full sized version of the app.
